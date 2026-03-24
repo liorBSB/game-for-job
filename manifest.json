@@ -1,0 +1,17 @@
+{
+  "name": "Supermarket Game",
+  "short_name": "SuperMarket",
+  "description": "A simple supermarket checkout game demo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5e6d3",
+  "theme_color": "#f5e6d3",
+  "icons": [
+    {
+      "src": "costumer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
